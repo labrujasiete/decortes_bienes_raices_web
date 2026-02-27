@@ -51842,7 +51842,7 @@ A.ax1.prototype={
 ga52(){var s,r,q=this,p=null,o=q.b
 if(o===$){s=t.yo
 s=A.b([A.lZ(p,new A.ax2(),"/",p,A.b([A.lZ(p,new A.ax3(),"land/:id",p,B.cQ),A.lZ(p,new A.ax4(),"privacypolicy",p,B.cQ),A.lZ(p,new A.ax5(),"termsconditions",p,B.cQ),A.lZ(p,p,"admin",new A.ax6(q),A.b([A.lZ(p,new A.ax7(),"login",p,B.cQ),A.lZ(p,new A.ax8(),"panel",p,B.cQ),A.lZ(p,new A.ax9(),"add_land",p,B.cQ),A.lZ(p,new A.axa(),"edit_land",p,B.cQ)],s))],s)),A.lZ(p,p,"*",new A.axb(),B.cQ)],s)
-r=A.b7D(!1,p,p,p,p,"/admin/login",p,p,p,!1,q.a,!0,p,!1,new A.a_4(new A.art(s,new A.axc(q),5,p)))
+r=A.b7D(!1,p,p,p,p,"/",p,p,p,!1,q.a,!0,p,!1,new A.a_4(new A.art(s,new A.axc(q),5,p)))
 q.b!==$&&A.aS()
 q.b=r
 o=r}return o}}
